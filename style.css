@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.first {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  display: inline-block;
+  position: relative;
+  top: -250px;
+  left: 350px;
+  border: solid 1px white;
+  padding: 0 2px;
+}
+
+.second {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  display: inline;
+  position: relative;
+  top: -250px;
+  left: 400px;
+  border: solid 1px white;
+  padding: 0 2px;
+}
+
+.cardgame {
+  position: relative;
+  top: 200px;
+  left: 50px;
+}
+.jumpgame {
+  position: relative;
+  top: 120px;
+  left: 100px;
+}
